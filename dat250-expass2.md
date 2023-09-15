@@ -7,6 +7,8 @@
 - https://github.com/thomasthunes/dat250-jpa-tutorial
 
 ## An explanation of how you inspected the database tables and what tables were created. For the latter, you may provide screenshots.
-- bla
+- bla'
 
+![Screenshot of database schema](./Screenshot 2023-09-15 190514.png?raw=true)
+Screenshot 2023-09-15 190514.png
 ## Any pending issues with this assignment that you did not manage to solve
