@@ -7,8 +7,9 @@
 - https://github.com/thomasthunes/dat250-jpa-tutorial
 
 ## An explanation of how you inspected the database tables and what tables were created. For the latter, you may provide screenshots.
-- bla'
+- I struggled with this step and after investigating the web, I found that this would be difficult because the provided template is a short-lived locally embedded h2 database. Instead I changed the hibernate.show_sql value to true, and copied the sql statements made by hibernate, I then converted the syntax to mySQL syntax and pasted it into https://dbdiagram.io, Which gave me the following database structure:
 
 ![Screenshot of database schema](./dbPic.png?raw=true)
 Screenshot 2023-09-15 190514.png
 ## Any pending issues with this assignment that you did not manage to solve
+No.
